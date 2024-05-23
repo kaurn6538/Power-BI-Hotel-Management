@@ -72,6 +72,7 @@ After making customizations, save your dashboard to retain the changes. Use the 
 Regular Data Refresh: Ensure the data is refreshed regularly to keep the insights up to date.
 
 1.Data Security: Implement appropriate data security measures to protect sensitive customer and business information.
+
 2.User Training: Provide training for users to maximize the utility of the dashboard and to ensure they can leverage all its features effectively.
 
 ## Support
