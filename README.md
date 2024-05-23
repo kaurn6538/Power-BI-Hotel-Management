@@ -33,6 +33,7 @@ These insights can be tailored and expanded based on specific business requireme
 
 ## How to Use
 Accessing the Dashboard
+
 1.Open Power BI Desktop: Ensure you have Power BI Desktop installed on your computer.
 
 2.Load the Dashboard File: Open the .pbix file provided to you which contains the Hotel Management Dashboard.
@@ -42,19 +43,20 @@ Accessing the Dashboard
 ## Interacting with the Dashboard
 Applying Filters
 
-Navigate to the filter pane usually located on the right side of the dashboard.
-Select the desired Hotel Type and/or Country from the filter options. The visualizations will update automatically to reflect your selections.
+*    Navigate to the filter pane usually located on the right side of the dashboard.
+*    Select the desired Hotel Type and/or Country from the filter options. The visualizations will update automatically to reflect your selections.
 
 ## Exploring Visualizations
 
-Click on different sections of the pie chart, bar graphs, or other visual elements to drill down into more detailed data.
-Hover over data points to see tooltips with additional information.
+*    Click on different sections of the pie chart, bar graphs, or other visual elements to drill down into more detailed data.
+*    Hover over data points to see tooltips with additional information.
 
 ## Viewing Detailed Data
 
 For more granular data, right-click on a visualization and choose options like "Drill Down" or "See Records" to view underlying data tables.
 Customizing the Dashboard
-Add New Visualizations
+
+## Add New Visualizations
 
 Use the fields pane to drag and drop new data fields into the canvas to create additional charts and graphs.
 Customize the appearance and type of visualization using the Visualizations pane.
