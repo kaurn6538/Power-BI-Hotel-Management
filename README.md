@@ -56,14 +56,6 @@ Applying Filters
 For more granular data, right-click on a visualization and choose options like "Drill Down" or "See Records" to view underlying data tables.
 Customizing the Dashboard
 
-## Add New Visualizations
-
-Use the fields pane to drag and drop new data fields into the canvas to create additional charts and graphs.
-Customize the appearance and type of visualization using the Visualizations pane.
-Modifying Existing Visualizations
-
-Select any existing visualization to edit its properties, such as changing chart types, adjusting filters, or modifying formatting options.
-
 ## Saving Changes
 
 After making customizations, save your dashboard to retain the changes. Use the "Save As" option to create different versions if needed.
