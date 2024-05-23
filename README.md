@@ -51,11 +51,6 @@ Applying Filters
 *    Click on different sections of the pie chart, bar graphs, or other visual elements to drill down into more detailed data.
 *    Hover over data points to see tooltips with additional information.
 
-## Viewing Detailed Data
-
-For more granular data, right-click on a visualization and choose options like "Drill Down" or "See Records" to view underlying data tables.
-Customizing the Dashboard
-
 ## Saving Changes
 
 After making customizations, save your dashboard to retain the changes. Use the "Save As" option to create different versions if needed.
