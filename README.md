@@ -5,26 +5,26 @@ Welcome to the Hotel Management Dashboard README file. This document provides an
 ## Features
 *    Filters
   
-1.Hotel Type: Allows you to filter data by the type of hotel (e.g., Resort Hotel, City Hotel).
+      1.Hotel Type: Allows you to filter data by the type of hotel (e.g., Resort Hotel, City Hotel).
 
-2.Country: Enables filtering of data based on the country where the hotel is located.
+      2.Country: Enables filtering of data based on the country where the hotel is located.
 
 *    Visualizations
-Reservation Status Overview
+    Reservation Status Overview
 
-1.Displays the number of reservations that are canceled, repeated, and changed.
+    1.Displays the number of reservations that are canceled, repeated, and changed.
 
-2.This section helps in understanding the reservation trends and customer loyalty.
+    2.This section helps in understanding the reservation trends and customer loyalty.
 
 *    Hotel Type by Guests with Babies and Children
 
-A pie chart illustrating the proportion of different hotel types booked by guests with babies and children.
-Useful for identifying family-friendly hotels and understanding the preferences of families.
+    A pie chart illustrating the proportion of different hotel types booked by guests with babies and children.
+    Useful for identifying family-friendly hotels and understanding the preferences of families.
 
 *    Total Bookings by Customer Type
 
-A detailed breakdown of total bookings segmented by customer type (e.g., transient, contract, group, and transient-party).
-Helps in identifying key customer segments and their booking behaviors.
+    A detailed breakdown of total bookings segmented by customer type (e.g., transient, contract, group, and transient-party).
+    Helps in identifying key customer segments and their booking behaviors.
 
 ## Additional Insights
 
