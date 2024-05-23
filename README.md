@@ -4,13 +4,16 @@ Welcome to the Hotel Management Dashboard README file. This document provides an
 
 ## Features
 *    Filters
+  
 1.Hotel Type: Allows you to filter data by the type of hotel (e.g., Resort Hotel, City Hotel).
+
 2.Country: Enables filtering of data based on the country where the hotel is located.
 
 *    Visualizations
 Reservation Status Overview
 
 1.Displays the number of reservations that are canceled, repeated, and changed.
+
 2.This section helps in understanding the reservation trends and customer loyalty.
 
 *    Hotel Type by Guests with Babies and Children
@@ -31,7 +34,9 @@ These insights can be tailored and expanded based on specific business requireme
 ## How to Use
 Accessing the Dashboard
 1.Open Power BI Desktop: Ensure you have Power BI Desktop installed on your computer.
+
 2.Load the Dashboard File: Open the .pbix file provided to you which contains the Hotel Management Dashboard.
+
 3.Data Refresh: If you have a live data connection or updated dataset, refresh the data to see the most recent information.
 
 ## Interacting with the Dashboard
